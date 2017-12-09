@@ -25,7 +25,7 @@ SECRET_KEY = '=6w=ex0xadc6rp_td^znnhz!8_s+f5gi^$+g5-_i_k(b8-n&gf'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['alexweaver.pythonanywhere.com', 'localhost']
 
 
 # Application definition
